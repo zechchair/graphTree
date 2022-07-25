@@ -1,0 +1,13 @@
+{
+  "name": "ykn9o96nm9",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/ykn9o96nm9",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-d3-tree": "1.9.2",
+    "react-dom": "16.0.0"
+  }
+}
